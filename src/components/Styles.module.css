@@ -1,0 +1,9 @@
+.btns{
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    width: 50px;
+}
+.list{
+    list-style: none;
+}
